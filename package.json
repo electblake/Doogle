@@ -5,6 +5,7 @@
   "scripts": {
     "test": "grunt test"
   },
+  "main": "package/Doogle.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Wildhoney/Doogle.git"
